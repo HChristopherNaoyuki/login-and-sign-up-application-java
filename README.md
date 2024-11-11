@@ -18,7 +18,7 @@ A Java-based login and sign-up application with a graphical user interface (GUI)
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/HChristopherNaoyuki/login-and-sign-up-java.git
+   git clone https://github.com/HChristopherNaoyuki/login-and-sign-up-application-java.git
    ```
 
 2. **Navigate to the project directory**:
